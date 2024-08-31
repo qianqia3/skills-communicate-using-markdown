@@ -7,3 +7,7 @@ modified index.md for test headers.
 ``` java
 System.out.println("Hello world");
 ```
+
+- [ ] Doing hw1
+- [x] Doing hw2
+
